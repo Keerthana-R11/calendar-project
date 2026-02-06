@@ -6,7 +6,6 @@
 * users understand date handling in Python
 
 🔹Technologies Used
-
 Python
 Built-in Python library:
 * calendar
